@@ -1,5 +1,17 @@
 #Histogram Extraction
 
+## Preliminaries
+
+To use this script, you will need to install EXIFTOOL, a Perl library
+to extract EXIF metadata from JPEG photos. On Ubuntu, use the apt-get command to install it:
+
+```sudo apt-get install libimage-exiftool-perl```
+
+Alternatively, the latest stable package can be found and installed
+from the homepage:
+
+```http://www.sno.phy.queensu.ca/~phil/exiftool/```
+
 ##Usage:
 
 To display help message: 
