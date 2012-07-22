@@ -8,7 +8,7 @@ to extract EXIF metadata from JPEG photos. On Ubuntu, use the apt-get command to
 ```sudo apt-get install libimage-exiftool-perl```
 
 Alternatively, the latest stable package can be found and installed
-from the homepage:
+from their homepage:
 
 http://www.sno.phy.queensu.ca/~phil/exiftool/
 
