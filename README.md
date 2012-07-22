@@ -10,7 +10,7 @@ to extract EXIF metadata from JPEG photos. On Ubuntu, use the apt-get command to
 Alternatively, the latest stable package can be found and installed
 from the homepage:
 
-```http://www.sno.phy.queensu.ca/~phil/exiftool/```
+http://www.sno.phy.queensu.ca/~phil/exiftool/
 
 ##Usage:
 
