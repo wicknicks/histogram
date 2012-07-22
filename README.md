@@ -13,4 +13,5 @@ To construct a histogram of N bins from a set of photos:
 To construct a histogram of N bins from all photos in a directory:
 
 ```python histogram.py -n NBINS -d ../relative_path_to_photos``` 
+OR
 ```python histogram.py -n NBINS -d /absolute/path/to/photos``` 
